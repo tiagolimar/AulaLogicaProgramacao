@@ -8,6 +8,9 @@ console.log(1 - 2); // -1
 console.log(1 / 2); // 0.5
 console.log(1 * 2); // 2
 
+console.log(5 % 2); // 1 (resto da divisão)
+console.log(2 ** 3); // 8 (potenciação)
+
 console.log(5 + 3 * 4)
 console.log((5 + 3) * 4)
 
